@@ -6,7 +6,7 @@ function Header() {
       <header className="header">
         <div className="toolbar">
           <div>
-            <span>Conencta Dev</span>
+            <span>Conencta Dev - teste</span>
           </div>
           <div>
             <button>Novo Post</button>
